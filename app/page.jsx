@@ -5,13 +5,13 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24 mt-32">
     <h1 className="text-2xl font-bold">Groove Street 608 360 view</h1>
     <iframe
-  width="80%"
+  width="100%"
   height={840}
   frameBorder={0}
   allow="xr-spatial-tracking; gyroscope; accelerometer"
   allowFullScreen=""
   scrolling="no"
-  src="https://kuula.co/share/collection/7KK4c?logo=0&info=0&fs=1&vr=1&sd=1&initload=1&thumbs=1"
+  src="https://kuula.co/share/collection/7KKh7?logo=1&info=0&fs=1&vr=1&zoom=1&sd=1&thumbs=1"
 />
 
     </main>
